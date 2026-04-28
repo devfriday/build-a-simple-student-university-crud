@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Stud App" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.example.studentcrud.StudentUniversityCrudApplication" />
+    <module name="student-university-crud" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
