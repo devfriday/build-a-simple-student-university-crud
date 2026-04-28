@@ -231,7 +231,7 @@ class StudentUniversityApiIntegrationTest {
         enrollment.setStudent(student);
         enrollment.setCourse(originalCourse);
         enrollment.setTermName("SPRING-2026");
-        enrollmentRepository.save(enrollment); //TODO
+        enrollmentRepository.save(enrollment); //TODO 2
 
         StudentRequest updateRequest = new StudentRequest(
                 "John",
